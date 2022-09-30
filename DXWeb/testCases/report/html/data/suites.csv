@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Sun Sep 25 16:51:38 CST 2022","Sun Sep 25 16:51:38 CST 2022","4","DXWeb.testCases","test_dxweb","TestDXWeb","","","test_templateCheckActive",""
+"passed","Sun Sep 18 20:04:07 CST 2022","Sun Sep 18 20:04:28 CST 2022","21046","DXWeb.testCases","test_dxweb02","TestDXWeb","","","test_login",""
+"broken","Sun Sep 25 16:51:39 CST 2022","Sun Sep 25 16:51:39 CST 2022","0","DXWeb.testCases","test_dxweb","TestDXWeb","","","test_apiApplyAimUrl",""
+"passed","Sun Sep 25 16:50:43 CST 2022","Sun Sep 25 16:51:05 CST 2022","21098","DXWeb.testCases","test_dxweb","TestDXWeb","","","test_login[data0]",""
+"broken","Sun Sep 25 16:51:05 CST 2022","Sun Sep 25 16:51:38 CST 2022","33867","DXWeb.testCases","test_dxweb","TestDXWeb","","","test_createTemplate",""
+"broken","Sun Sep 25 16:51:38 CST 2022","Sun Sep 25 16:51:38 CST 2022","0","DXWeb.testCases","test_dxweb","TestDXWeb","","","test_searchTemplate",""
